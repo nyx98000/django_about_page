@@ -1,0 +1,5 @@
+Python version: 3.13
+Virtual environment active: No
+Django version: 5.2.6
+Runserver working: Yes
+Git remote set: Yes (https://github.com/nyx98000/django_about_page)
