@@ -1,0 +1,6 @@
+
+Setting up my Django environment was a bit challenging at first. Initially, I installed Python incorrectly because I forgot to tick “Add Python to PATH” during installation. This caused a lot of confusion and wasted time, as the command prompt could not recognize Python or Django commands. After realizing this mistake, I reinstalled Python correctly and everything started working smoothly.
+
+The next challenge was setting up Git and linking my project to GitHub. At first, the process of creating branches, committing changes, and pushing to a remote repository was confusing. I also had to configure my Git username and email to avoid errors when committing. However, after carefully following instructions step by step and troubleshooting the issues, I eventually got the hang of it and successfully pushed my project along with the screenshots.
+
+Overall, these challenges taught me the importance of proper environment setup and attention to detail. By facing these issues, I gained confidence in managing Python, Django, and Git workflows, which will help me in future projects.
